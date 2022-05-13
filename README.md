@@ -14,7 +14,8 @@ Prior to making a measurement, we need to ask the following questions:
 
 ### Getting the language right: what 'uncertainty' and 'risk' really mean
 
-'uncertainty' and 'risk' are distinctly different terms
+'uncertainty' and 'risk' are distinctly different terms  
+
 "*Uncertainty must be taken in a sense radically distinct from the familiar
 notion of Risk, from which it has never been properly separated. ...
 The essential fact is that “risk” means in some cases a quantity susceptible
@@ -25,14 +26,17 @@ bearings of the phenomena depending on which of the two is really
 present and operating.*" - Frank Knight
 
 **Uncertainty**: The lack of complete certainty, that is, the existence of more than one possibility. The “true” outcome/state/
-result/value is not known.
+result/value is not known.  
+
 **Measurement of Uncertainty**: A set of probabilities assigned to
 a set of possibilities. For example: “There is a 60% chance this
 market will more than double in five years, a 30% chance it
 will grow at a slower rate, and a 10% chance the market will
-shrink in the same period.”
+shrink in the same period.”  
+
 **Risk**: A state of uncertainty where some of the possibilities involve
-a loss, catastrophe, or other undesirable outcome.
+a loss, catastrophe, or other undesirable outcome.  
+
 **Measurement of Risk**: A set of possibilities each with quantified
 probabilities and quantified losses. For example: “We believe
 there is a 40% chance the proposed oil well will be dry with a
