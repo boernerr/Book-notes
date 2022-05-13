@@ -1,9 +1,9 @@
 # Book-notes-HowToMeasureAnything
-Notes from the book How to Measure Anything by Hubbard
+Notes from the book: *How to Measure Anything: Finding the intangibles...* by Hubbard
 
 ## Chapter 4: Clarifying the Measurement problem
 
-### Notes taken on 5/13/2022 1:00
+### Notes taken on 5/13/2022 1:00 BEGIN
 
 Prior to making a measurement, we need to ask the following questions:
 1. What is the decision this measurement supports
@@ -38,3 +38,4 @@ probabilities and quantified losses. For example: “We believe
 there is a 40% chance the proposed oil well will be dry with a
 loss of $12 million in exploratory drilling costs.”
 
+### Notes 5/13/2022 1:28 END
