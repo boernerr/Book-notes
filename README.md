@@ -3,7 +3,7 @@ Notes from the book: *How to Measure Anything: Finding the intangibles...* by Hu
 
 ## Chapter 4: Clarifying the Measurement problem
 
-### Notes taken on 5/13/2022 1:00 BEGIN
+### Notes 5/13/2022 1:00 BEGIN
 
 Prior to making a measurement, we need to ask the following questions:
 1. What is the decision this measurement supports
@@ -42,4 +42,11 @@ probabilities and quantified losses. For example: “We believe
 there is a 40% chance the proposed oil well will be dry with a
 loss of $12 million in exploratory drilling costs.”
 
-### Notes 5/13/2022 1:28 END
+### Notes 5/13/2022 1:28 END  
+
+### Notes 5/16/2022 12:24 BEGIN  
+Detailed outline of quantifying IT risk when Hubbard consulted for the VA.  
+
+## Chapter 5: Calibrate Estimates: how much you currently know  
+###Notes 5/16/2022 12:37 END
+
