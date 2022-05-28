@@ -48,5 +48,35 @@ loss of $12 million in exploratory drilling costs.”
 Detailed outline of quantifying IT risk when Hubbard consulted for the VA.  
 
 ## Chapter 5: Calibrate Estimates: how much you currently know  
-###Notes 5/16/2022 12:37 END
+### Notes 5/16/2022 12:37 END  
+This entire chapter on calibration training. This is the process of being a certain % confident that  
+some event will happen. The analogy is given that if we deem there is a 90% chance something will happen in  
+a given range, then we should feel equally good about our chances of a game of chance with a 90% chance we  
+win a prize. The example given from the book to demonstrate 90% certainty:  
+1. You win $1,000 if the true year of publication of Newton’s book turns
+out to be between the dates you gave for the upper and lower bound.
+If not, you win nothing.
+2. You spin a dial divided into two unequal “pie slices,” one comprising
+90% of the dial and the other just 10%. If the dial lands on the large
+slice, you win $1,000. If it lands on the small slice, you win nothing
+(i.e., there is a 90% chance you win $1,000). (See Exhibit 5.2.)
+   
+## Chapter 6: Measuring Risk thru modeling
+### Notes 5/28/2022 14:28 BEGIN
+#### Real Risk Analysis: Monte Carlo
+Using ranges to represent your uncertainty instead of unrealistically precise
+point values clearly has advantages. When you allow yourself to use ranges
+and probabilities, you don’t really have to assume anything you don’t know
+for a fact.  
 
+In fact, all risk in any project investment ultimately can be expressed
+by one method: the ranges of uncertainty on the costs and benefits and
+probabilities on events that might affect them. If you know precisely the
+amount and timing of every cost and benefit (as is implied by traditional
+business cases based on fixed point values), you literally have no risk. There
+is no chance that any benefit would be lower or cost would be higher than
+you expect. But all we really know about these things is the range, not
+exact points. And because we only have broad ranges, there is a chance we
+will have a negative return. That is the basis for computing risk, and that is
+what the Monte Carlo simulation is for.
+### Notes 5/28/2022 15:11 END
