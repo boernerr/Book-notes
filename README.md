@@ -79,4 +79,10 @@ you expect. But all we really know about these things is the range, not
 exact points. And because we only have broad ranges, there is a chance we
 will have a negative return. That is the basis for computing risk, and that is
 what the Monte Carlo simulation is for.
-### Notes 5/28/2022 15:11 END
+### Notes 5/28/2022 15:11 END 
+### Notes 6/24/2022 16:00 BEGIN  
+In fact, all risk in any project investment ultimately can be expressed
+by one method: the ranges of uncertainty on the costs and benefits and
+probabilities on events that might affect them. If you know precisely the
+amount and timing of every cost and benefit (as is implied by traditional
+business cases based on fixed point values), you literally have no risk.
