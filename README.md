@@ -86,3 +86,28 @@ by one method: the ranges of uncertainty on the costs and benefits and
 probabilities on events that might affect them. If you know precisely the
 amount and timing of every cost and benefit (as is implied by traditional
 business cases based on fixed point values), you literally have no risk.
+### Notes 6/24/2022 16:15 END
+### Notes 8/28/2022 23:00 BEGIN  
+## Chapter 7: Measuring the Value of info  
+The McNamara Fallacy
+The first step is to measure whatever can be easily measured. This is
+OK as far as it goes. The second step is to disregard that which can’t
+easily be measured or to give it an arbitrary quantitative value.
+This is artificial and misleading. The third step is to presume that
+what can’t be measured easily isn’t important. This is blindness. The
+fourth step is to say that what can’t easily be measured really doesn’t
+exist. This is suicide.
+—Charles Handy, The Empty Raincoat (1995)—describing
+the Vietnam-era measurement policies of Secretary
+of Defense Robert McNamara  
+
+As mentioned in Chapter 2, there are really only three basic reasons
+why information ever has value to a business:
+1. Information reduces uncertainty about decisions that have economic
+consequences.
+2. Information affects the behavior of others, which has economic consequences.
+3. Information sometimes has its own market value.  
+
+The value of information regarding its effect on human behavior is
+exactly equal to the value of the difference in human behavior.  
+### Notes 8/28/2022 23:45 END 
