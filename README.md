@@ -110,4 +110,4 @@ consequences.
 
 The value of information regarding its effect on human behavior is
 exactly equal to the value of the difference in human behavior.  
-### Notes 8/28/2022 23:45 END 
+### Notes 8/28/2022 23:45 END
