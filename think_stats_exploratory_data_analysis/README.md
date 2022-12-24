@@ -31,6 +31,4 @@ If the logarithms of a set of values have a normal distribution, the values have
 normal distribution. The CDF of the lognormal distribution is the same as the CDF of
 the normal distribution, with logx substituted for x.  
 
-
-
-
+### Notes 12/23/2022 22:00 from DCA :) END
